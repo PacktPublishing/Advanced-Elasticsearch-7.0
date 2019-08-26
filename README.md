@@ -48,12 +48,7 @@ With the following software and hardware list you can run all code files present
 | 11 | JDK (8) | Windows, Mac OS X, and Linux (Any) |
 | 12 | Python (3.6) | Windows, Mac OS X, and Linux (Any) |
 | 13 | Kibana (7.0.0), Logstash, Filebeat, Docker, Elastic Stack Docker image | Windows, Mac OS X, and Linux (Any) |
-|  |  | Windows, Mac OS X, and Linux (Any) |
-|  |  | Windows, Mac OS X, and Linux (Any) |
-|  |  | Windows, Mac OS X, and Linux (Any) |
-|  |  | Windows, Mac OS X, and Linux (Any) |
-|  |  | Windows, Mac OS X, and Linux (Any) |
-|  |  | Windows, Mac OS X, and Linux (Any) |
+
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781789957754_ColorImages.pdf).
 
