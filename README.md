@@ -40,7 +40,7 @@ html, body, #map {
 **Following is what you need for this book:**
 This book is for entry-level data professionals, software engineers, e-commerce developers, and full-stack developers who want to learn about Elastic Stack and understand how the real-time processing and search engine works for business analytics and enterprise search applications. Experience with Elastic Stack is not required, however knowledge of data warehousing and database concepts will be helpful.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-4).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-18).
 ### Software and Hardware List
 | Chapter | Software required | OS required |
 | -------- | ------------------------------------ | ----------------------------------- |
