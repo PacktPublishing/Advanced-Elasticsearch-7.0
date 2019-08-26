@@ -1,0 +1,5 @@
+# ES-Hadoop 7.0
+pyspark==2.4.3
+pandas==0.24.2
+matplotlib==3.1.0
+numpy==1.16.4
