@@ -1,9 +1,9 @@
-# 
+# Advanced Elasticsearch 7.0
 
-<a href="https://www.packtpub.com/in/data/mastering-elasticsearch-7-0?utm_source=github&utm_medium=repository&utm_campaign="><img src="" alt="" height="256px" align="right"><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781789957754-original.jpeg" alt="Hands-On Image Processing with Python" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/in/data/mastering-elasticsearch-7-0?utm_source=github&utm_medium=repository&utm_campaign="><img src="" alt="" height="256px" align="right"><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781789957754-original.jpeg" alt="Advanced Elasticsearch 7.0" height="256px" align="right"></a>
 
 
-This is the code repository for [](https://www.packtpub.com/in/data/mastering-elasticsearch-7-0?utm_source=github&utm_medium=repository&utm_campaign=), published by Packt.
+This is the code repository for [Advanced Elasticsearch 7.0](https://www.packtpub.com/in/data/mastering-elasticsearch-7-0?utm_source=github&utm_medium=repository&utm_campaign=), published by Packt.
 
 **Distributed search, analytics, and visualization using Elasticsearch, Logstash, Beats, and Kibana**
 
