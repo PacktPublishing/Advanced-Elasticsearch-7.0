@@ -1,0 +1,64 @@
+{
+        "mappings": {
+            "dynamic": "false",
+            "properties": {
+                "announcement": {
+                    "type": "nested",
+                    "properties": {
+                        "amount": {
+                            "type": "float"
+                        },
+                        "declaredDate": {
+                            "type": "date"
+                        },
+                        "exDate": {
+                            "type": "date"
+                        },
+                        "flag": {
+                            "type": "text",
+                            "fields": {
+                                "keyword": {
+                                    "type": "keyword",
+                                    "ignore_above": 256
+                                }
+                            }
+                        },
+                        "indicated": {
+                            "type": "text",
+                            "fields": {
+                                "keyword": {
+                                    "type": "keyword",
+                                    "ignore_above": 256
+                                }
+                            }
+                        },
+                        "paymentDate": {
+                            "type": "date"
+                        },
+                        "qualified": {
+                            "type": "text",
+                            "fields": {
+                                "keyword": {
+                                    "type": "keyword",
+                                    "ignore_above": 256
+                                }
+                            }
+                        },
+                        "recordDate": {
+                            "type": "date"
+                        },
+                        "type": {
+                            "type": "text",
+                            "fields": {
+                                "keyword": {
+                                    "type": "keyword",
+                                    "ignore_above": 256
+                                }
+                            }
+                        }
+                    }
+                },
+                "symbol": { "type": "keyword" }
+            }
+        }
+}

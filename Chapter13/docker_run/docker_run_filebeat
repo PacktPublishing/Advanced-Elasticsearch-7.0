@@ -1,0 +1,2 @@
+#!/bin/bash
+docker run --name=filebeat --group-add adm --net packt -v /var/log:/var/log -v "`pwd`/filebeat.yml:/usr/share/filebeat/filebeat.yml" docker.elastic.co/beats/filebeat:7.0.0

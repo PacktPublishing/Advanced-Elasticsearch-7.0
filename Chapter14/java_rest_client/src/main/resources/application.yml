@@ -1,0 +1,13 @@
+server:
+  port: 10010
+  servlet:
+    context-path: /
+spring:
+  application:
+    name: restClient
+
+elasticsearch:
+  host: localhost
+  rest-client-port: 9200
+  transport-client-port: 9300
+    

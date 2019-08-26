@@ -1,0 +1,2 @@
+#!/bin/bash
+docker run --name=logstash_filebeat --group-add adm --net packt --rm -it -v "`pwd`/pipeline_for_filebeat/":/usr/share/logstash/pipeline -e xpack.monitoring.enabled=false docker.elastic.co/logstash/logstash:7.0.0 

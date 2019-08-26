@@ -1,0 +1,36 @@
+{
+	"mappings": {
+		"dynamic": false,
+		"properties": {
+			"symbol": {"type": "keyword"},
+			"fund_name": {"type": "text", "fields": {"raw": {"type":"keyword"}}, "analyzer":"description_analyzer", "search_analyzer":"description_analyzer"},
+			"rating": {"type": "byte"},
+			"morningstar_category": {"type": "keyword"},
+			"category": {"type": "keyword"},
+			"family": {"type": "keyword"},
+			"market_cap": {"type": "keyword"},
+			"description": {"type": "text", "fields": {"raw": {"type":"keyword"}}, "analyzer":"description_analyzer", "search_analyzer":"description_analyzer"},
+			"exchange": {"type": "keyword"}
+		}
+	},
+	"settings": {
+		"analysis": {
+			"analyzer" : {
+				"description_analyzer": {
+					"type": "custom",
+					"tokenizer": "description_tokenizer",
+					"filter": ["lowercase", "description_pattern_replace_filter", "description_stemmer_filter", "description_stop_filter", "description_length_filter", "unique"]
+				}
+			},
+			"tokenizer": {
+				"description_tokenizer" : {"type":"char_group", "tokenize_on_chars": ["whitespace", "digit", "symbol", "\\n", ",", ":", "!", "?", ";", ",", "_", "{", "[", "}", "]", "(", ")", "\\", "\/","\""]}
+			},
+			"filter": {
+				"description_pattern_replace_filter": {"type":"pattern_replace", "pattern": "(\\w{2,})\\.", "replacement":"$1"},
+				"description_stemmer_filter" : {"type":"stemmer", "name":"light_english"},
+				"description_stop_filter": {"type":"stop", "stopwords_path":"stopwords"},
+				"description_length_filter": {"type":"length", "min":2}
+			}
+		}
+	}
+}

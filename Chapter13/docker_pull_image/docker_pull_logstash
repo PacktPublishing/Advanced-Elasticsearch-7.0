@@ -1,0 +1,2 @@
+#!/bin/bash
+docker pull docker.elastic.co/logstash/logstash:7.0.0

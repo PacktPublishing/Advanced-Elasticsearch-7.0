@@ -1,0 +1,2 @@
+#!/bin/bash
+docker run --name=logstash --group-add adm --net packt --rm -it -v "`pwd`/pipeline/:/usr/share/logstash/pipeline" -v /var/log/:/tmp/log -e xpack.monitoring.enabled=false docker.elastic.co/logstash/logstash:7.0.0 

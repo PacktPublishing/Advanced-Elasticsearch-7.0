@@ -1,0 +1,11 @@
+{
+"symbol": "ACWI",
+"fund_name": "iShares MSCI ACWI ETF",
+"rating": 3,
+"morningstar_category": "World Large Stock",
+"category": "International",
+"family": "iShares",
+"market_cap": "large",
+"description": "The investment seeks to track the investment results of the MSCI ACWI composed of large- and mid-capitalization developed and emerging market equities.\\n The fund generally will invest at least 90% of its assets in the component securities of the underlying index and in investments that have economic characteristics that are substantially identical to the component securities of the underlying index. The index is a free float-adjusted market capitalization index designed to measure the combined equity market performance of developed and emerging markets countries.",
+"exchange": "NASDAQ Global Market"
+}

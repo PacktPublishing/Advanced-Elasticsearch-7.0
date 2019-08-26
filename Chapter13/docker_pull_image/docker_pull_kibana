@@ -1,0 +1,2 @@
+#!/bin/bash
+docker pull docker.elastic.co/kibana/kibana:7.0.0

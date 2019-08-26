@@ -1,0 +1,10 @@
+filebeat.inputs:
+- type: log
+  paths:
+    - /var/log/syslog
+
+output.logstash:
+  hosts: ["logstash_filebeat:5044"]
+
+logging.level: debug
+
