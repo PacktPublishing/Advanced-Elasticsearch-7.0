@@ -1,0 +1,181 @@
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2018-12-26", "open": 55.0803, "high": 56.0999, "low": 54.59, "close": 55.89, "volume": 27038,"change": 0.971, "changePercent": 1.768,  "label": "Dec 26, 18", "changeOverTime": 0, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2018-12-27", "open": 55.06, "high": 55.86, "low": 54.81, "close": 55.86, "volume": 27832,"change": -0.03, "changePercent": -0.054,  "label": "Dec 27, 18", "changeOverTime": -0.0005367686527107021, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2018-12-28", "open": 56, "high": 56.3807, "low": 55.8904, "close": 56.22, "volume": 34498,"change": 0.36, "changePercent": 0.644,  "label": "Dec 28, 18", "changeOverTime": 0.0059044551798174685, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2018-12-29", "open": 56, "high": 56.3807, "low": 55.8904, "close": 56.22, "volume": 34498,"change": 0.36, "changePercent": 0.644,  "label": "Dec 28, 18", "changeOverTime": 0.0059044551798174685, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2018-12-30", "open": 56, "high": 56.3807, "low": 55.8904, "close": 56.22, "volume": 34498,"change": 0.36, "changePercent": 0.644,  "label": "Dec 28, 18", "changeOverTime": 0.0059044551798174685, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2018-12-31", "open": 56.38, "high": 56.49, "low": 55.8199, "close": 55.99, "volume": 23308,"change": -0.23, "changePercent": -0.409,  "label": "Dec 31, 18", "changeOverTime": 0.0017892288423689644, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-01-01", "open": 56.38, "high": 56.49, "low": 55.8199, "close": 55.99, "volume": 23308,"change": -0.23, "changePercent": -0.409,  "label": "Dec 31, 18", "changeOverTime": 0.0017892288423689644, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-01-02", "open": 55.41, "high": 56.2354, "low": 55.41, "close": 56.14, "volume": 6820,"change": 0.15, "changePercent": 0.268,  "label": "Jan 2, 19", "changeOverTime": 0.004473072105922347, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-01-03", "open": 55.22, "high": 55.2995, "low": 54.8436, "close": 54.85, "volume": 7134,"change": -1.29, "changePercent": -2.298,  "label": "Jan 3, 19", "changeOverTime": -0.01860797996063695, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-01-04", "open": 55.34, "high": 56.46, "low": 55.34, "close": 56.46, "volume": 12406,"change": 1.61, "changePercent": 2.935,  "label": "Jan 4, 19", "changeOverTime": 0.010198604401502958, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-01-05", "open": 55.34, "high": 56.46, "low": 55.34, "close": 56.46, "volume": 12406,"change": 1.61, "changePercent": 2.935,  "label": "Jan 4, 19", "changeOverTime": 0.010198604401502958, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-01-06", "open": 55.34, "high": 56.46, "low": 55.34, "close": 56.46, "volume": 12406,"change": 1.61, "changePercent": 2.935,  "label": "Jan 4, 19", "changeOverTime": 0.010198604401502958, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-01-07", "open": 56.47, "high": 56.7676, "low": 56.43, "close": 56.64, "volume": 6884,"change": 0.18, "changePercent": 0.319,  "label": "Jan 7, 19", "changeOverTime": 0.013419216317767043, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-01-08", "open": 56.5436, "high": 56.6797, "low": 56.31, "close": 56.54, "volume": 5402,"change": -0.1, "changePercent": -0.177,  "label": "Jan 8, 19", "changeOverTime": 0.011629987475398078, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-01-09", "open": 57.14, "high": 57.7487, "low": 57.14, "close": 57.52, "volume": 6315,"change": 0.98, "changePercent": 1.733,  "label": "Jan 9, 19", "changeOverTime": 0.02916443013061375, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-01-10", "open": 57.48, "high": 58.19, "low": 57.48, "close": 58.19, "volume": 304189,"change": 0.67, "changePercent": 1.165,  "label": "Jan 10, 19", "changeOverTime": 0.04115226337448555, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-01-11", "open": 57.7379, "high": 58.13, "low": 57.7205, "close": 58.13, "volume": 94482,"change": -0.06, "changePercent": -0.103,  "label": "Jan 11, 19", "changeOverTime": 0.04007872606906427, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-01-12", "open": 57.7379, "high": 58.13, "low": 57.7205, "close": 58.13, "volume": 94482,"change": -0.06, "changePercent": -0.103,  "label": "Jan 11, 19", "changeOverTime": 0.04007872606906427, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-01-13", "open": 57.7379, "high": 58.13, "low": 57.7205, "close": 58.13, "volume": 94482,"change": -0.06, "changePercent": -0.103,  "label": "Jan 11, 19", "changeOverTime": 0.04007872606906427, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-01-14", "open": 57.21, "high": 57.63, "low": 57.15, "close": 57.569, "volume": 57796,"change": -0.561, "changePercent": -0.965,  "label": "Jan 14, 19", "changeOverTime": 0.03004115226337452, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-01-15", "open": 57.86, "high": 58.08, "low": 57.72, "close": 57.855, "volume": 17943,"change": 0.286, "changePercent": 0.497,  "label": "Jan 15, 19", "changeOverTime": 0.035158346752549585, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-01-16", "open": 58.37, "high": 58.62, "low": 58.25, "close": 58.4629, "volume": 28624,"change": 0.6079, "changePercent": 1.051,  "label": "Jan 16, 19", "changeOverTime": 0.04603506888531038, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-01-17", "open": 58.283, "high": 58.94, "low": 58.283, "close": 58.701, "volume": 9121,"change": 0.2381, "changePercent": 0.407,  "label": "Jan 17, 19", "changeOverTime": 0.05029522275899087, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-01-18", "open": 59, "high": 59.3, "low": 58.92, "close": 59.09, "volume": 12136,"change": 0.389, "changePercent": 0.663,  "label": "Jan 18, 19", "changeOverTime": 0.0572553229558061, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-01-19", "open": 59, "high": 59.3, "low": 58.92, "close": 59.09, "volume": 12136,"change": 0.389, "changePercent": 0.663,  "label": "Jan 18, 19", "changeOverTime": 0.0572553229558061, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-01-20", "open": 59, "high": 59.3, "low": 58.92, "close": 59.09, "volume": 12136,"change": 0.389, "changePercent": 0.663,  "label": "Jan 18, 19", "changeOverTime": 0.0572553229558061, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-01-21", "open": 59, "high": 59.3, "low": 58.92, "close": 59.09, "volume": 12136,"change": 0.389, "changePercent": 0.663,  "label": "Jan 18, 19", "changeOverTime": 0.0572553229558061, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-01-22", "open": 58.44, "high": 58.51, "low": 58.08, "close": 58.0994, "volume": 19551,"change": -0.9906, "changePercent": -1.676,  "label": "Jan 22, 19", "changeOverTime": 0.039531222043299376, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-01-23", "open": 58.88, "high": 59.02, "low": 58.6699, "close": 58.9908, "volume": 9532,"change": 0.8914, "changePercent": 1.534,  "label": "Jan 23, 19", "changeOverTime": 0.05548040794417605, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-01-24", "open": 59.28, "high": 59.85, "low": 59.28, "close": 59.85, "volume": 10636,"change": 0.8592, "changePercent": 1.456,  "label": "Jan 24, 19", "changeOverTime": 0.07085346215781, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-01-25", "open": 60.46, "high": 60.8699, "low": 60.46, "close": 60.66, "volume": 19849,"change": 0.81, "changePercent": 1.353,  "label": "Jan 25, 19", "changeOverTime": 0.08534621578099831, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-01-26", "open": 60.46, "high": 60.8699, "low": 60.46, "close": 60.66, "volume": 19849,"change": 0.81, "changePercent": 1.353,  "label": "Jan 25, 19", "changeOverTime": 0.08534621578099831, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-01-27", "open": 60.46, "high": 60.8699, "low": 60.46, "close": 60.66, "volume": 19849,"change": 0.81, "changePercent": 1.353,  "label": "Jan 25, 19", "changeOverTime": 0.08534621578099831, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-01-28", "open": 59.8559, "high": 60.1, "low": 59.8559, "close": 60.0199, "volume": 16698,"change": -0.6401, "changePercent": -1.055,  "label": "Jan 28, 19", "changeOverTime": 0.0738933619609948, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-01-29", "open": 60.33, "high": 60.4, "low": 60.17, "close": 60.1904, "volume": 7316,"change": 0.1705, "changePercent": 0.284,  "label": "Jan 29, 19", "changeOverTime": 0.07694399713723378, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-01-30", "open": 60.77, "high": 61.8, "low": 60.588, "close": 61.69, "volume": 9581,"change": 1.4996, "changePercent": 2.491,  "label": "Jan 30, 19", "changeOverTime": 0.1037752728573984, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-01-31", "open": 61.58, "high": 62.13, "low": 61.58, "close": 61.99, "volume": 26494,"change": 0.3, "changePercent": 0.486,  "label": "Jan 31, 19", "changeOverTime": 0.1091429593845053, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-02-01", "open": 61.76, "high": 61.84, "low": 61.51, "close": 61.63, "volume": 12730,"change": -0.36, "changePercent": -0.581,  "label": "Feb 1, 19", "changeOverTime": 0.10270173555197713, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-02-02", "open": 61.76, "high": 61.84, "low": 61.51, "close": 61.63, "volume": 12730,"change": -0.36, "changePercent": -0.581,  "label": "Feb 1, 19", "changeOverTime": 0.10270173555197713, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-02-03", "open": 61.76, "high": 61.84, "low": 61.51, "close": 61.63, "volume": 12730,"change": -0.36, "changePercent": -0.581,  "label": "Feb 1, 19", "changeOverTime": 0.10270173555197713, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-02-04", "open": 61.66, "high": 62.0872, "low": 61.66, "close": 61.995, "volume": 3897,"change": 0.365, "changePercent": 0.592,  "label": "Feb 4, 19", "changeOverTime": 0.10923242082662367, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-02-05", "open": 62.3999, "high": 62.81, "low": 62.3999, "close": 62.65, "volume": 34202,"change": 0.655, "changePercent": 1.057,  "label": "Feb 5, 19", "changeOverTime": 0.12095186974414024, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-02-06", "open": 62.45, "high": 62.45, "low": 62.0095, "close": 62.1179, "volume": 15955,"change": -0.5321, "changePercent": -0.849,  "label": "Feb 6, 19", "changeOverTime": 0.11143138307389512, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-02-07", "open": 61.7, "high": 61.7094, "low": 61.1, "close": 61.382, "volume": 12511,"change": -0.7359, "changePercent": -1.185,  "label": "Feb 7, 19", "changeOverTime": 0.09826444802290209, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-02-08", "open": 61.22, "high": 61.39, "low": 60.87, "close": 61.315, "volume": 8219,"change": -0.067, "changePercent": -0.109,  "label": "Feb 8, 19", "changeOverTime": 0.0970656646985149, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-02-09", "open": 61.22, "high": 61.39, "low": 60.87, "close": 61.315, "volume": 8219,"change": -0.067, "changePercent": -0.109,  "label": "Feb 8, 19", "changeOverTime": 0.0970656646985149, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-02-10", "open": 61.22, "high": 61.39, "low": 60.87, "close": 61.315, "volume": 8219,"change": -0.067, "changePercent": -0.109,  "label": "Feb 8, 19", "changeOverTime": 0.0970656646985149, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-02-11", "open": 61.34, "high": 61.34, "low": 61.0975, "close": 61.18, "volume": 19498,"change": -0.135, "changePercent": -0.22,  "label": "Feb 11, 19", "changeOverTime": 0.09465020576131686, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-02-12", "open": 61.8121, "high": 61.91, "low": 61.7262, "close": 61.7262, "volume": 7696,"change": 0.5462, "changePercent": 0.893,  "label": "Feb 12, 19", "changeOverTime": 0.10442297369833597, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-02-13", "open": 61.84, "high": 61.86, "low": 61.319, "close": 61.42, "volume": 4322,"change": -0.3062, "changePercent": -0.496,  "label": "Feb 13, 19", "changeOverTime": 0.09894435498300234, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-02-14", "open": 61.15, "high": 61.7931, "low": 61.14, "close": 61.7, "volume": 10051,"change": 0.28, "changePercent": 0.456,  "label": "Feb 14, 19", "changeOverTime": 0.10395419574163539, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-02-15", "open": 61.46, "high": 61.52, "low": 61.3958, "close": 61.5199, "volume": 4267,"change": -0.1801, "changePercent": -0.292,  "label": "Feb 15, 19", "changeOverTime": 0.10073179459652888, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-02-16", "open": 61.46, "high": 61.52, "low": 61.3958, "close": 61.5199, "volume": 4267,"change": -0.1801, "changePercent": -0.292,  "label": "Feb 15, 19", "changeOverTime": 0.10073179459652888, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-02-17", "open": 61.46, "high": 61.52, "low": 61.3958, "close": 61.5199, "volume": 4267,"change": -0.1801, "changePercent": -0.292,  "label": "Feb 15, 19", "changeOverTime": 0.10073179459652888, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-02-18", "open": 61.46, "high": 61.52, "low": 61.3958, "close": 61.5199, "volume": 4267,"change": -0.1801, "changePercent": -0.292,  "label": "Feb 15, 19", "changeOverTime": 0.10073179459652888, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-02-19", "open": 61.6736, "high": 62.1477, "low": 61.6736, "close": 62.0811, "volume": 4005,"change": 0.5612, "changePercent": 0.912,  "label": "Feb 19, 19", "changeOverTime": 0.11077294685990335, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-02-20", "open": 62.4563, "high": 62.65, "low": 62.23, "close": 62.39, "volume": 15004,"change": 0.3089, "changePercent": 0.498,  "label": "Feb 20, 19", "changeOverTime": 0.11629987475398103, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-02-21", "open": 62.1295, "high": 62.21, "low": 62.0401, "close": 62.0507, "volume": 15429,"change": -0.3393, "changePercent": -0.544,  "label": "Feb 21, 19", "changeOverTime": 0.1102290212918232, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-02-22", "open": 62.99, "high": 63.2, "low": 62.99, "close": 63.021, "volume": 26656,"change": 0.9703, "changePercent": 1.564,  "label": "Feb 22, 19", "changeOverTime": 0.12758990874932905, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-02-23", "open": 62.99, "high": 63.2, "low": 62.99, "close": 63.021, "volume": 26656,"change": 0.9703, "changePercent": 1.564,  "label": "Feb 22, 19", "changeOverTime": 0.12758990874932905, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-02-24", "open": 62.99, "high": 63.2, "low": 62.99, "close": 63.021, "volume": 26656,"change": 0.9703, "changePercent": 1.564,  "label": "Feb 22, 19", "changeOverTime": 0.12758990874932905, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-02-25", "open": 63.66, "high": 63.9, "low": 63.5, "close": 63.58, "volume": 12867,"change": 0.559, "changePercent": 0.887,  "label": "Feb 25, 19", "changeOverTime": 0.13759169797817136, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-02-26", "open": 63.22, "high": 63.5296, "low": 63.22, "close": 63.5296, "volume": 9963,"change": -0.0504, "changePercent": -0.079,  "label": "Feb 26", "changeOverTime": 0.1366899266416175, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-02-27", "open": 62.69, "high": 62.86, "low": 62.57, "close": 62.755, "volume": 13632,"change": -0.7746, "changePercent": -1.219,  "label": "Feb 27", "changeOverTime": 0.1228305600286277, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-02-28", "open": 62.2, "high": 62.2061, "low": 61.92, "close": 62, "volume": 20305,"change": -0.755, "changePercent": -1.203,  "label": "Feb 28", "changeOverTime": 0.10932188226874216, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-03-01", "open": 62.25, "high": 62.295, "low": 62.085, "close": 62.15, "volume": 6043,"change": 0.15, "changePercent": 0.242,  "label": "Mar 1", "changeOverTime": 0.11200572553229554, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-03-02", "open": 62.25, "high": 62.295, "low": 62.085, "close": 62.15, "volume": 6043,"change": 0.15, "changePercent": 0.242,  "label": "Mar 1", "changeOverTime": 0.11200572553229554, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-03-03", "open": 62.25, "high": 62.295, "low": 62.085, "close": 62.15, "volume": 6043,"change": 0.15, "changePercent": 0.242,  "label": "Mar 1", "changeOverTime": 0.11200572553229554, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-03-04", "open": 62.59, "high": 62.59, "low": 61.89, "close": 62.1993, "volume": 7631,"change": 0.0493, "changePercent": 0.079,  "label": "Mar 4", "changeOverTime": 0.11288781535158347, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-03-05", "open": 62.73, "high": 62.863, "low": 62.7047, "close": 62.8172, "volume": 1959,"change": 0.6179, "changePercent": 0.993,  "label": "Mar 5", "changeOverTime": 0.12394346036858113, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-03-06", "open": 62.77, "high": 62.77, "low": 62.3204, "close": 62.3516, "volume": 5465,"change": -0.4656, "changePercent": -0.741,  "label": "Mar 6", "changeOverTime": 0.11561281087851132, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-03-07", "open": 61.48, "high": 61.48, "low": 61.1401, "close": 61.19, "volume": 4600,"change": -1.1616, "changePercent": -1.863,  "label": "Mar 7", "changeOverTime": 0.09482912864555372, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-03-08", "open": 60.65, "high": 60.75, "low": 60.4277, "close": 60.67, "volume": 12233,"change": -0.52, "changePercent": -0.85,  "label": "Mar 8", "changeOverTime": 0.0855251386652353, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-03-09", "open": 60.65, "high": 60.75, "low": 60.4277, "close": 60.67, "volume": 12233,"change": -0.52, "changePercent": -0.85,  "label": "Mar 8", "changeOverTime": 0.0855251386652353, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-03-10", "open": 60.65, "high": 60.75, "low": 60.4277, "close": 60.67, "volume": 12233,"change": -0.52, "changePercent": -0.85,  "label": "Mar 8", "changeOverTime": 0.0855251386652353, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-03-11", "open": 61.28, "high": 61.8173, "low": 61.28, "close": 61.8173, "volume": 1969,"change": 1.1473, "changePercent": 1.891,  "label": "Mar 11", "changeOverTime": 0.10605296117373417, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-03-12", "open": 61.8963, "high": 62.16, "low": 61.81, "close": 61.9901, "volume": 13908,"change": 0.1728, "changePercent": 0.28,  "label": "Mar 12", "changeOverTime": 0.10914474861334761, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-03-13", "open": 61.9252, "high": 62.1999, "low": 61.9252, "close": 62.1589, "volume": 19569,"change": 0.1688, "changePercent": 0.272,  "label": "Mar 13", "changeOverTime": 0.11216496689926646, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-03-14", "open": 61.93, "high": 61.93, "low": 61.6804, "close": 61.71, "volume": 15325,"change": -0.4489, "changePercent": -0.722,  "label": "Mar 14", "changeOverTime": 0.10413311862587225, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-03-15", "open": 62.46, "high": 62.95, "low": 62.46, "close": 62.885, "volume": 7913,"change": 1.175, "changePercent": 1.904,  "label": "Mar 15", "changeOverTime": 0.12515655752370725, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-03-16", "open": 62.46, "high": 62.95, "low": 62.46, "close": 62.885, "volume": 7913,"change": 1.175, "changePercent": 1.904,  "label": "Mar 15", "changeOverTime": 0.12515655752370725, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-03-17", "open": 62.46, "high": 62.95, "low": 62.46, "close": 62.885, "volume": 7913,"change": 1.175, "changePercent": 1.904,  "label": "Mar 15", "changeOverTime": 0.12515655752370725, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-03-18", "open": 63.47, "high": 63.6, "low": 63.46, "close": 63.5881, "volume": 3033,"change": 0.7031, "changePercent": 1.118,  "label": "Mar 18", "changeOverTime": 0.13773662551440324, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-03-19", "open": 63.683, "high": 64.01, "low": 63.56, "close": 63.56, "volume": 6654,"change": -0.0281, "changePercent": -0.044,  "label": "Mar 19", "changeOverTime": 0.13723385220969764, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-03-20", "open": 63.97, "high": 63.98, "low": 63.97, "close": 63.9773, "volume": 1825,"change": 0.4173, "changePercent": 0.657,  "label": "Mar 20", "changeOverTime": 0.14470030416890317, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-03-21", "open": 63.58, "high": 63.85, "low": 63.58, "close": 63.828, "volume": 2440,"change": -0.1493, "changePercent": -0.233,  "label": "Mar 21", "changeOverTime": 0.1420289855072464, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-03-22", "open": 62.64, "high": 62.64, "low": 61.8105, "close": 61.8105, "volume": 1874,"change": -2.0175, "changePercent": -3.161,  "label": "Mar 22", "changeOverTime": 0.10593129361245297, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-03-23", "open": 62.64, "high": 62.64, "low": 61.8105, "close": 61.8105, "volume": 1874,"change": -2.0175, "changePercent": -3.161,  "label": "Mar 22", "changeOverTime": 0.10593129361245297, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-03-24", "open": 62.64, "high": 62.64, "low": 61.8105, "close": 61.8105, "volume": 1874,"change": -2.0175, "changePercent": -3.161,  "label": "Mar 22", "changeOverTime": 0.10593129361245297, "symbol": "RFEM"}
+{"index": {"_index": "cf_rfem_hist_price"}}
+{"date": "2019-03-25", "open": 62.18, "high": 62.3599, "low": 62.18, "close": 62.2201, "volume": 2536,"change": 0.4096, "changePercent": 0.663,  "label": "Mar 25", "changeOverTime": 0.11325997495079623, "symbol": "RFEM"}
+

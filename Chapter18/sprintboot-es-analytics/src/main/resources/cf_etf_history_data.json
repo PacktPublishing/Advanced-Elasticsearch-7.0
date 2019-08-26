@@ -1,0 +1,64 @@
+{
+	"mappings": {
+		"dynamic": false,
+        "properties": {
+            "change": {
+                "type": "float"
+            },
+            "changeOverTime": {
+                "type": "float"
+            },
+            "changePercent": {
+                "type": "float"
+            },
+            "close": {
+                "type": "float"
+            },
+            "date": {
+                "type": "date", "format": "yyyy-MM-dd"
+            },
+            "high": {
+                "type": "float"
+            },
+            "label": {
+                "type": "text",
+                "fields": {
+                    "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                    }
+                }
+            },
+            "low": {
+                "type": "float"
+            },
+            "open": {
+                "type": "float"
+            },
+            "symbol": {
+                "type": "keyword"
+            },
+            "hlc": {
+                "type": "float"
+            },
+            "tDMA": {
+                "type": "float"
+            },
+            "tDStDev": {
+                "type": "float"
+            },
+            "bbu": {
+                "type": "float"
+            },
+            "bbl": {
+                "type": "float"
+            },
+            "prediction": {
+                "type": "integer"
+            },
+            "volume": {
+                "type": "long"
+            }
+        }
+    }
+}

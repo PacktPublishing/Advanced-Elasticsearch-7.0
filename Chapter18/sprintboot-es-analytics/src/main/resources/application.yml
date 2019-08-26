@@ -1,0 +1,40 @@
+server:
+  port: 10010
+  servlet:
+    context-path: /
+spring:
+  application:
+    name: restClient
+
+elasticsearch:
+  host: localhost
+  rest-client-port: 9200
+  transport-client-port: 9300
+  data_index: cf_etf_history_data
+  register_funds_index: register_funds
+  scroll:
+    size: 1000
+    timeout: 300000
+  request:
+    timeout: 60s
+    
+spark:
+  es:
+    nodes: localhost
+    port: 9200
+    #resource: cf_rfem_hist_price
+    resource: cf_etf_history_data
+    index_auto_create: false
+    scroll:
+      size: 200
+      timeout: 120s
+    request:
+      timeout: 120s
+
+iex:
+  uri:
+    prefix: https://cloud.iexapis.com/v1/stock
+    
+scheduler:
+  cron: "0 5 * * * ?"
+  

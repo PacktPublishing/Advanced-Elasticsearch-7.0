@@ -1,0 +1,11 @@
+{
+	"mappings": {
+		"dynamic": false,
+		"properties": {
+			"symbol": {"type": "keyword"},
+			"startDate": {"type": "date", "format":"yyyy-MM-dd"},
+			"period": {"type": "keyword"},
+			"fieldNames": {"type": "keyword"}
+		}
+	}
+}
