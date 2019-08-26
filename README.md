@@ -1,15 +1,23 @@
 # 
 
-<a href="https://www.packtpub.com/in/data/mastering-elasticsearch-7-0?utm_source=github&utm_medium=repository&utm_campaign="><img src="" alt="" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/in/data/mastering-elasticsearch-7-0?utm_source=github&utm_medium=repository&utm_campaign="><img src="" alt="" height="256px" align="right"><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781789957754-original.jpeg" alt="Hands-On Image Processing with Python" height="256px" align="right"></a>
+
 
 This is the code repository for [](https://www.packtpub.com/in/data/mastering-elasticsearch-7-0?utm_source=github&utm_medium=repository&utm_campaign=), published by Packt.
 
 **Distributed search, analytics, and visualization using Elasticsearch, Logstash, Beats, and Kibana**
 
 ## What is this book about?
-0
+Advanced Elasticsearch 7.0, will help the readers to leverage new features and Core APIs of Elasticsearch to perform advanced search operations. This book covers data modeling, aggregations, pipeline processing, and data Analytics using Elasticsearch
 
 This book covers the following exciting features:
+* Pre-process documents before indexing in ingest pipelines
+* Learn how to model your data in the real world
+* Get to grips with using Elasticsearch for exploratory data analysis
+* Understand how to build analytics and RESTful services
+* Use Kibana, Logstash, and Beats for dashboard applications
+* Get up to speed with Spark and Elasticsearch for real-time analytics
+* Explore the basics of Spring Data Elasticsearch, and understand how to index, search, and query in a Spring application
 
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789957753) today!
@@ -54,36 +62,10 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Learning Elastic Stack 7.0 - Second Edition  [[Packt]](https://www.packtpub.com/in/big-data-and-business-intelligence/learning-elastic-stack-70-second-edition?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1789954398)
 
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
 
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
 
 ## Get to Know the Author
-**Wai Tak Wong**
-	Wai Tak Wong is a faculty member in the Department of Computer Science at Kean University, NJ, USA. He has more than 15 years professional experience in cloud software design and development. His PhD in computer science was obtained at NJIT, NJ, USA. Wai Tak has served as an associate professor in the Information Management Department of Chung Hua University, Taiwan. A co-founder of Shanghai Shellshellfish Information Technology, Wai Tak acted as the Chief Scientist of the R&D team, and he has published more than a dozen algorithms in prestigious journals and conferences. Wai Tak began his search and analytics technology career with Elasticsearch in the real estate market and later applied this to data management and FinTech data services.
-
-****
-0
-
-****
-0
-
-****
-0
-
-****
-0
-
-## Other books by the authors
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
+**Wai Tak Wong** is a faculty member in the Department of Computer Science at Kean University, NJ, USA. He has more than 15 years professional experience in cloud software design and development. His PhD in computer science was obtained at NJIT, NJ, USA. Wai Tak has served as an associate professor in the Information Management Department of Chung Hua University, Taiwan. A co-founder of Shanghai Shellshellfish Information Technology, Wai Tak acted as the Chief Scientist of the R&D team, and he has published more than a dozen algorithms in prestigious journals and conferences. Wai Tak began his search and analytics technology career with Elasticsearch in the real estate market and later applied this to data management and FinTech data services.
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
